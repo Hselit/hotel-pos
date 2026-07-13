@@ -1,4 +1,4 @@
-import { Clock, Hotel, HotelIcon, Pizza, ReceiptIcon, Search } from 'lucide-react'
+import { Clock, Pizza, Search } from 'lucide-react'
 import './App.css'
 import { SideBarComponent } from './components/SideBarComponent'
 
