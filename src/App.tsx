@@ -82,7 +82,7 @@ function App() {
           <div className='p-6 overflow-x-auto bg-white border-b border-slate-100 no-scrollbar'>
             <div className='flex space-x-2'>
               {categories.map((cat,index)=> (
-                <button className={`rounded-xl text-sm font-bold px-5 py-2 transition-sall ${selectedCategory === cat ? "bg-slate-900 text-white shadow-lg shadow-slate-200 scale-105" : "bg-slate-50 text-slate-500 hover:bg-slate-100"}`} key={index} onClick={(e) => setSelectedCateogry(cat)}>{cat}</button>
+                <button className={`rounded-xl text-sm font-bold px-5 py-2 transition-sall ${selectedCategory === cat ? "bg-slate-900 text-white shadow-lg shadow-slate-200 scale-105" : "bg-slate-50 text-slate-500 hover:bg-slate-100"}`} key={index} onClick={() => setSelectedCateogry(cat)}>{cat}</button>
               ))}
             </div>
           </div>
