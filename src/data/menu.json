@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Idli",
+    "price": 30,
+    "category": "Breakfast",
+    "image": "https://images.unsplash.com/photo-1589302168068-964664d93dc0"
+  },
+  {
+    "id": 2,
+    "name": "Dosa",
+    "price": 50,
+    "category": "Breakfast",
+    "image": "https://images.unsplash.com/photo-1630383249896-424e482df921"
+  },
+  {
+    "id": 3,
+    "name": "Poori",
+    "price": 45,
+    "category": "Breakfast",
+    "image": "https://images.unsplash.com/photo-1626200419199-391ae4be7a41"
+  },
+  {
+    "id": 4,
+    "name": "Pongal",
+    "price": 40,
+    "category": "Breakfast",
+    "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950"
+  },
+  {
+    "id": 5,
+    "name": "Meals",
+    "price": 120,
+    "category": "Lunch",
+    "image": "https://images.unsplash.com/photo-1516685018646-549d52f3b2f5"
+  },
+  {
+    "id": 6,
+    "name": "Chicken Biryani",
+    "price": 180,
+    "category": "Lunch",
+    "image": "https://images.unsplash.com/photo-1633945274405-b6c8069047b0"
+  },
+  {
+    "id": 7,
+    "name": "Veg Fried Rice",
+    "price": 110,
+    "category": "Lunch",
+    "image": "https://images.unsplash.com/photo-1603133872878-684f208fb84b"
+  },
+  {
+    "id": 8,
+    "name": "Curd Rice",
+    "price": 70,
+    "category": "Lunch",
+    "image": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7"
+  },
+  {
+    "id": 9,
+    "name": "Parotta",
+    "price": 25,
+    "category": "Dinner",
+    "image": "https://images.unsplash.com/photo-1604908176997-431dddb53c7f"
+  },
+  {
+    "id": 10,
+    "name": "Chapati",
+    "price": 40,
+    "category": "Dinner",
+    "image": "https://images.unsplash.com/photo-1601050690117-94f5f6fa2fef"
+  },
+  {
+    "id": 11,
+    "name": "Paneer Butter Masala",
+    "price": 160,
+    "category": "Dinner",
+    "image": "https://images.unsplash.com/photo-1631452180539-96aca7d48617"
+  },
+  {
+    "id": 12,
+    "name": "Egg Curry",
+    "price": 90,
+    "category": "Dinner",
+    "image": "https://images.unsplash.com/photo-1547592180-85f173990554"
+  },
+  {
+    "id": 13,
+    "name": "Tea",
+    "price": 15,
+    "category": "Beverages",
+    "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085"
+  },
+  {
+    "id": 14,
+    "name": "Coffee",
+    "price": 20,
+    "category": "Beverages",
+    "image": "https://images.unsplash.com/photo-1494314671902-399b18174975"
+  },
+  {
+    "id": 15,
+    "name": "Lemon Juice",
+    "price": 35,
+    "category": "Beverages",
+    "image": "https://images.unsplash.com/photo-1621506289937-a8e4df240d0b"
+  },
+  {
+    "id": 16,
+    "name": "Samosa",
+    "price": 20,
+    "category": "Snacks",
+    "image": "https://images.unsplash.com/photo-1601050690117-94f5f6fa2fef"
+  },
+  {
+    "id": 17,
+    "name": "Vada",
+    "price": 15,
+    "category": "Snacks",
+    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc"
+  },
+  {
+    "id": 18,
+    "name": "Puffs",
+    "price": 25,
+    "category": "Snacks",
+    "image": "https://images.unsplash.com/photo-1604908177522-402923f0b52e"
+  },
+  {
+    "id": 19,
+    "name": "Gulab Jamun",
+    "price": 40,
+    "category": "Desserts",
+    "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950"
+  },
+  {
+    "id": 20,
+    "name": "Ice Cream",
+    "price": 60,
+    "category": "Desserts",
+    "image": "https://images.unsplash.com/photo-1563805042-7684c019e1cb"
+  }
+]
